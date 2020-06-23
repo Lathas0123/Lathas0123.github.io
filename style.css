@@ -25,3 +25,18 @@ body
     height: 200px;
 
 }
+.box h1{
+    font-size: 50px;
+    letter-spacing: 4%;
+    font-weight: 100;
+}
+.box h3
+{
+    font-size: 25px;
+    letter-spacing: 3px;
+    font-weight: 100;
+
+}
+.box p{
+    text-align: justify;
+}
