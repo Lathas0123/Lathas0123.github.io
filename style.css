@@ -2,7 +2,7 @@ body
 {
     margin: 0;
     padding: 0;
-    background: url(bg.jpg) no-repeat;
+    background: url(bac.jpg) no-repeat;
     background-size: cover;
 }
 
@@ -14,7 +14,7 @@ body
     text-align: center;
     margin: auto;
     margin-top: 5%;
-    color: white;
+    color:white;
     font-family: 'Times New Roman', Times, serif;
 
 }
